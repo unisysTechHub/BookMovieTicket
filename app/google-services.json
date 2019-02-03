@@ -1,0 +1,210 @@
+{
+  "project_info": {
+    "project_number": "143623244372",
+    "firebase_url": "https://bookmoiveticket.firebaseio.com",
+    "project_id": "bookmoiveticket",
+    "storage_bucket": "bookmoiveticket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143623244372:android:4960cb83e896e57e",
+        "android_client_info": {
+          "package_name": "com.sciits.pr939.firebaseanalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143623244372-pnvfql7ei1tmn1k1br0k8v7q67okbmvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFv0ZFbJyY8NhBn-DhmO89Gr53wuVkK5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143623244372:android:e75f8dbd3ce6dd3d",
+        "android_client_info": {
+          "package_name": "com.uisys.bookmovieticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143623244372-pnvfql7ei1tmn1k1br0k8v7q67okbmvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFv0ZFbJyY8NhBn-DhmO89Gr53wuVkK5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143623244372:android:47a2b68d3830a889",
+        "android_client_info": {
+          "package_name": "com.uisys.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143623244372-pnvfql7ei1tmn1k1br0k8v7q67okbmvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFv0ZFbJyY8NhBn-DhmO89Gr53wuVkK5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143623244372:android:da1229e3d5d48cc3",
+        "android_client_info": {
+          "package_name": "com.uisys.firebasestorageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143623244372-pnvfql7ei1tmn1k1br0k8v7q67okbmvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFv0ZFbJyY8NhBn-DhmO89Gr53wuVkK5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143623244372:android:675fd03715ceb633",
+        "android_client_info": {
+          "package_name": "com.uisys.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143623244372-khg3f72v9be5hk2c7lh40228442o9coo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uisys.googlesignin",
+            "certificate_hash": "46995ccd9ea3ff8d49ff981e9f1e8323f11ca359"
+          }
+        },
+        {
+          "client_id": "143623244372-pnvfql7ei1tmn1k1br0k8v7q67okbmvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFv0ZFbJyY8NhBn-DhmO89Gr53wuVkK5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143623244372-pnvfql7ei1tmn1k1br0k8v7q67okbmvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143623244372:android:3afb4f5835db527b",
+        "android_client_info": {
+          "package_name": "unisys.com.cloudstrorageuploadimages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143623244372-pnvfql7ei1tmn1k1br0k8v7q67okbmvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFv0ZFbJyY8NhBn-DhmO89Gr53wuVkK5w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
